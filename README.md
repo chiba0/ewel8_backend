@@ -63,6 +63,7 @@ $user->save();=> App\Models\User {#3501}
 ### データの確認
 
 mysql> SELECT * FROM users\G
+```
 *************************** 1. row ***************************
                id: 1
              name: phper
@@ -73,3 +74,4 @@ email_verified_at: NULL
        created_at: 2023-12-28 16:23:30
        updated_at: 2023-12-28 16:23:30
 1 row in set (0.00 sec)
+```
