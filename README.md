@@ -96,11 +96,15 @@ email_verified_at: NULL
 
 ### ページ開く
 - chiba@chiba:~/ewel8_backend$ docker compose up 
+
 で開く
+
 http://localhost:8000/
 
 ## productsテストページ
+
 http://localhost:8000/api/products
+
 ---
 
 ### API の作成
